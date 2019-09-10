@@ -9,8 +9,10 @@ console.log(num1b[0].innerText);
 
 //Number 2
 console.log(document.querySelector("p.special"));
+// !! : use inner Text to get the text of an element
 // console.log(document.querySelectorAll("p special"));
 console.log(document.querySelectorAll("p.special")[0]);
+// !! : use inner Text to get the text of an element
 //selectorAll runs as an Array and to iterate through, use for Loop
 
 //NUmber 3
